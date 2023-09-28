@@ -1,0 +1,4 @@
+asyncpraw
+pydantic-settings
+fastapi
+uvicorn
